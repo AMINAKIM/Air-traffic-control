@@ -11,14 +11,14 @@ The project aims to create an Air Traffic Controller (ATC), a highly skilled pro
 
 
 ## Features
-- ** Real-time aircraft tracking and monitoring. ** 
-- ** Collision detection and prevention algorithms **
-- ** Efficient airspace management and coordination. ** 
-- ** User-friendly interface for ATC operators **
-- ** Calculate the maximum flow between source and destination. ** 
-- ** Manage the number of seats **
-- ** Manage landing and take-off **
-- ** Runway management ** 
+** Real-time aircraft tracking and monitoring. ** 
+** Collision detection and prevention algorithms **
+** Efficient airspace management and coordination. ** 
+** User-friendly interface for ATC operators **
+** Calculate the maximum flow between source and destination. ** 
+** Manage the number of seats **
+** Manage landing and take-off **
+** Runway management ** 
 
 ## Installation
 
