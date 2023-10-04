@@ -11,7 +11,7 @@ The project aims to create an Air Traffic Controller (ATC), a highly skilled pro
 
 
 ## Features
-**Real-time aircraft tracking and monitoring.**
+-  **Real-time aircraft tracking and monitoring.**
 -  **Collision detection and prevention algorithms**
 -  **Efficient airspace management and coordination.** 
 -  **User-friendly interface for ATC operators**
