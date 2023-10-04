@@ -4,10 +4,10 @@ This project aims to create a highly efficient Air Traffic Controller (ATC) syst
 
 # Overview
 
-##English 
+***English*** 
 The project aims to create an Air Traffic Controller (ATC), a highly skilled professional responsible for overseeing and directing the movement of aircraft within airspace. Their primary goal is to ensure the safe and efficient flow of air traffic, prevent collisions, and maintain organized operations within a designated airspace. 
 
-##Frensh 
+***Frensh***
 Le projet vise à développer un Contrôleur de la Circulation Aérienne (CCA), un expert hautement compétent chargé de superviser et de guider le déplacement des aéronefs dans l'espace aérien. Son principal objectif est de garantir un flux de trafic aérien sûr et efficace, d'éviter les collisions, et de maintenir des opérations ordonnées dans une zone aérienne définie.
 
 
@@ -17,21 +17,13 @@ Le projet vise à développer un Contrôleur de la Circulation Aérienne (CCA), 
 
 ## Features
 - ** Real-time aircraft tracking and monitoring. ** 
--
 - ** Collision detection and prevention algorithms **
--
 - ** Efficient airspace management and coordination. ** 
--
 - ** User-friendly interface for ATC operators **
-- 
 - ** Calculate the maximum flow between source and destination. ** 
--
 - ** Manage the number of seats **
--
 - ** Manage landing and take-off **
--
 - ** Runway management ** 
-
 
 ## Installation
 
